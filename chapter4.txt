@@ -1,0 +1,14 @@
+
+
+1.
+nslookup ibm.com
+nslookup wipro.com
+2.
+whois  ibm.com
+whois  wipro.com
+
+3.
+nmp  -sV <IP>   -Pn
+nmap -sV 203.163.246.23  -Pn
+
+4. Installed and scanned.
